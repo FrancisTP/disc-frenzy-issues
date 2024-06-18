@@ -1,4 +1,4 @@
-# disc-frenzy-issues
+# Disc Frenzy - Bugs and Issues
 
 This repository is the official issue tracker for Disc Frenzy.
 
